@@ -94,7 +94,7 @@ public class Gryffindor extends Hogwarts {
 
 
         if (this.honor > student.getHonor()) {
-            System.out.println("Честь " + this.getNameOfStudent() + " больше чем "
+            System.out.println("Честь " + this.getNameOfStudent() + " больше  чем "
                     + student.getNameOfStudent());
         } else if (this.honor < student.getHonor()) {
             System.out.println("Честь " + this.getNameOfStudent() + " меньше чем "

@@ -6,7 +6,7 @@ public class Slytherin extends Hogwarts {
 
     private final int cunning;
     private final int resoluteness;
-    private final int ambition;
+    private final int  ambition;
     private final int resourcefulness;
     private final int lustForPower;
 
