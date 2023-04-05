@@ -8,7 +8,7 @@ public class Hogwarts {
     private final int powerOfMagic;
     private final int distanceOfTransgression;
 
-    public Hogwarts(String nameOfStudent, int powerOfMagic, int distanceOfTransgression) {
+    public Hogwarts(String nameOfStudent, int powerOfMagic, int  distanceOfTransgression) {
         this.nameOfStudent = nameOfStudent;
         this.powerOfMagic = powerOfMagic;
         this.distanceOfTransgression = distanceOfTransgression;
